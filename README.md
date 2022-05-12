@@ -6,3 +6,4 @@ propagate shows how e.g. a condensor aperture of certain phase and amplitude tra
 holographic shows the principle of holograhpic reconstruction by creating a specifically shaped binary aperture to recreate a desired wavefront
 
 you can open these files in either visual studio code, jupter notebooks under anaconda, or directly online in binder.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joverbee/qem_tutorial/blob/main/holographic.ipynb/HEAD)
