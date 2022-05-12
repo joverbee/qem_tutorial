@@ -2,7 +2,7 @@
 Jupyter Notebook tutorial for wave shaping.
 Contains 2 example codes to start playing with waveshaping of electrons. 
 
-## propagate 
+## propagation 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joverbee/qem_tutorial/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fjoverbee%2Fqem_tutorial%2Fblob%2Fmain%2Fpropagation.ipynb)
 Shows how e.g. a condensor aperture of certain phase and amplitude translates into a beam in a plane in the vicinity of the sample plane.
 
